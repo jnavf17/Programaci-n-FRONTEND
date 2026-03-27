@@ -1,0 +1,15 @@
+ #titulo
+    {
+        color:darkblue;
+        text-align:center;
+    }
+    
+.caja
+    {
+        background-color:lightyellow;
+        width:300px;
+        padding:20px;
+        border:2px solid goldenrod;
+        margin: 20px;
+        border-radius: 8px;
+    }
