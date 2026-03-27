@@ -1,0 +1,16 @@
+ #titulo
+    {
+        color:darkblue;
+        text-align:center;
+    }
+    
+.tarjeta
+    {
+        background-color:lightgray;
+        padding:20px;
+    }
+.destacado
+    {
+        color:red;
+        font-weight:bold;
+    }
