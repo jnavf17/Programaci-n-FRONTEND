@@ -1,0 +1,33 @@
+h1
+    {
+        color:blue;
+    }
+h2  
+    {
+        color:magenta;
+    }
+p
+    {
+        color:gray;
+        font-size:30px;
+    }
+.destacado
+    {
+        color:red;
+        font-weight:bold;
+    }
+#titulo{
+        color:darkblue;
+        text-align:center;
+    }
+    
+.texto{
+        color:black;
+        font-size:30px;
+    }
+.caja
+    {
+        background-color:lightgray;
+        padding:20px;
+        border:2px solid goldenrod;
+    }
